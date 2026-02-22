@@ -1,0 +1,5 @@
+export enum ks_err_asm_x86 {
+  INVALIDOPERAND = 512, // KS_ERR_ASM_ARCH
+  MISSINGFEATURE,
+  MNEMONICFAIL,
+}
