@@ -35,7 +35,7 @@
     "url": "https://github.com/Cheatron/cheatron-keystone/issues"
   },
   "dependencies": {
-    "@cheatron/win32-ext": "^1.0.2"
+    "@cheatron/win32-ext": "^1.0.3"
   },
   "devDependencies": {
     "@cheatron/capstone": "^1.0.0",
